@@ -4,15 +4,15 @@
 
 - 👨‍💻 My portfolio is available at [https://kasiakozl.github.io/Portfolio/](https://kasiakozl.github.io/Portfolio/)
 
-- 📫 How to reach me **kozlowska.poznan@gmail.com**
+- 📫 How to reach me **kat.kozl.90@gmail.com**
 
-- 📄 Know about my experiences **I just finished my professional training in fullstack developer**
+- 📄 Know about my experiences **I just finished my professional training in fullstack web developer**
 
 -  💬 Ask me about **PHP - LARAVEL, MYSQL, JAVASCRIPT, JAVA, C#, XML, JSON, HTML, CSS,**
 
 - 🌱 I’m currently learning **Laravel**
 
-- ⚡ Fun fact **I want to move to Norway**
+- ⚡ Fun fact **I run half marathons and marathons for fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
